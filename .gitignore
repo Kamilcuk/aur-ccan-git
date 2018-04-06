@@ -1,0 +1,6 @@
+src
+pkg
+Build
+ccancopy
+*.tar*
+*.settings*
